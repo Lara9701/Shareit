@@ -1,0 +1,8 @@
+{
+    "name": "Share it PWA",
+    "short_name": "Share it",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color" : "#fff" ,
+    "description": "Deine Cloud-Sharing-Plattform"
+}

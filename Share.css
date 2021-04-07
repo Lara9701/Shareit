@@ -1,0 +1,151 @@
+
+/* Header */ 
+
+#einloggen {
+  margin-right: 10px;
+}
+
+.text {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 150;
+    margin-top: 2%;
+}
+
+
+.page-header {
+    background-image: url("Images/bbg.png");
+    background-position-x: center;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+#header-text {
+  text-align: center;
+  color: white;
+  font-size: 25pt;
+  margin-top: 25px;
+  margin-bottom: 0%;
+}
+
+#header-text2 {
+  color: white;
+  font-size: 15pt;
+}
+
+/* Header Ende */ 
+
+/* Startseite */
+
+#service-text {
+  margin-bottom: 55px;
+}
+
+#überschrift1 { 
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.services {
+  padding-top: 100px;
+}
+
+#icon1 {
+  height: 50px;
+  width: 50px; 
+  padding: 2px;
+  margin-bottom: 10px;
+
+}
+
+#icon2 {
+  height: 50px;
+  width: 50px; 
+  padding: 2px;
+  margin-bottom: 10px;
+
+}
+
+#icon3 {
+  height: 50px;
+  width: 50px; 
+  padding: 2px;
+  margin-bottom: 10px;;
+
+}
+
+.card-text {
+  font-size: 18px;
+}
+
+#card1 {
+  margin: auto;
+  margin-top: 80px;
+}
+
+
+#anmelden-button {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#absatz1 {
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+#team-text {
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+#team-bg {
+  background:rgb(248, 245, 245);
+}
+
+/* CSS Registrieren-Seite*/ 
+
+#register-form {
+  width: 450px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+
+#register-text1 {
+  font-size: 20pt;
+  color: rgb(255, 230, 0);
+  margin-top: 35px;
+}
+
+#register-text2 {
+  font-size: 15pt;
+}
+
+#register-button {
+  margin-bottom: 10px;
+}
+#login-button {
+  margin-bottom: 120px;
+}
+
+/*Einloggen-Seite*/
+
+#login-form {
+  width: 450px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+#login-button2 {
+  margin-top: 15px;
+  margin-bottom: 120px;
+}
+
+/*Dashboard*/ 
+
+#dashboard-header {
+  background:rgb(19, 18, 18)
+}
